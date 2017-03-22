@@ -6,4 +6,4 @@ Please note that there may be spoilers contained therein, especially for other s
 
 To read the stories these pertain to, go to <a href="https://www.fictionpress.com/~saiususo">Saiussuo on FictionPress</a>
 
-For (sporatdic) updates, go to <a href="http://saiussuo.tumblr.com">Saiussuo on Tubmlr</a>
+For (sporatdic) updates, go to <a href="http://saiussuo.tumblr.com">Saiussuo on Tubmlr</a>, or <a href="http://twitter.com/saiussuo">Saiussuo on Twitter</a>
