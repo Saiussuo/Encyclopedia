@@ -4,7 +4,7 @@ Please note that there may be spoilers contained therein, especially for other s
 
 The letters you see in parentheses after each article title stand for the story for which the entry was written.  This will help differentiate them later on, when they are all imported into a single encyclopedia.
 
-<a href="https://saiussuo.github.io/Encyclopedia/LambertTactics1.0release.html">Lambert Tactics Encyclopedia</a>
+<a href="https://saiussuo.github.io/Encyclopedia/LambertTactics1.1.html">Lambert Tactics Encyclopedia</a>
 
 To read the stories these pertain to, go to <a href="https://www.fictionpress.com/~saiususo">Saiussuo on FictionPress</a>
 
