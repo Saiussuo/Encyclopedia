@@ -6,6 +6,8 @@ The letters you see in parentheses after each article title stand for the story 
 
 <a href="https://saiussuo.github.io/Encyclopedia/LambertTactics1.2.html">Lambert Tactics Encyclopedia</a>
 
+<a href="https://saiussuo.github.io/Encyclopedia/AfterLambertTactics1.0.html">After Lambert Tactics Encyclopedia</a>
+
 To read the stories these pertain to, go to <a href="https://www.fictionpress.com/~saiususo">Saiussuo on FictionPress</a>
 
 For (sporatdic) updates, go to <a href="http://saiussuo.tumblr.com">Saiussuo on Tubmlr</a>, or <a href="http://twitter.com/saiussuo">Saiussuo on Twitter</a>
