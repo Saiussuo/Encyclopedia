@@ -10,6 +10,6 @@ The letters you see in parentheses after each article title stand for the story 
 
 <a href="https://saiussuo.github.io/Encyclopedia/TheEndOfTheRoad1.0.html">The End of the Road Encyclopedia</a>
 
-To read the stories these pertain to, go to <a href="https://www.fictionpress.com/~saiususo">Saiussuo on FictionPress</a>
+To read the stories these pertain to, go to <a href="https://www.fictionpress.com/~saiusso">Saiussuo on FictionPress</a>
 
 For (sporatdic) updates, go to <a href="http://saiussuo.tumblr.com">Saiussuo on Tubmlr</a>, or <a href="http://twitter.com/saiussuo">Saiussuo on Twitter</a>
